@@ -75,7 +75,6 @@ const modalCloseBtn1 = document.querySelector(".modal__close")
 const handleOpenModal1 = () => {
     modal.classList.add("show")
     modal.classList.remove("hide")
-    
 }
 
 const handleCloseModal1 = () => {
